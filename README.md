@@ -1,29 +1,16 @@
-<h1 align="center">Привет! Я Артём</h1>
-<h3 align="center">27 лет | Фронтенд разработчик из Беларуси 🇧🇾</h3>
+# Привет , меня зовут Артём.
+## Front-end разработчик из Беларуси.
 
 ---
 
-### 🚀 Немного обо мне:
-
-- 🔭 Продолжаю развиваться в веб-разработке  
-- 💻 Пишу красивый и адаптивный фронт  
-- 🌱 Осваиваю React и многое другое  
-- ⚡ Люблю создавать чистый и читаемый код
-
----
-
-### 🛠️ Мой стек технологий:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
+### :hammer_and_wrench: Навыки : 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+</div>
 
 ### ☕ Немного вайба напоследок:
 
