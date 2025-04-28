@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
 
 ### ☕ Немного вайба напоследок:
