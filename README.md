@@ -15,8 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
 
-### ☕ Немного вайба напоследок:
-
 > "Сначала ты учишься код писать, потом код учит тебя." — Артём, 2025
 
 ---
